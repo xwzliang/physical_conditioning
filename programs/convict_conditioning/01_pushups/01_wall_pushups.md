@@ -13,3 +13,7 @@
 |Beginner: | 1x10 |
 |Intermediate: | 2x25 |
 |Progression: | 3x50 |
+
+## Figures
+
+![wall_pushup](../images/01_pushups/Wall-Pushup.jpg "Wall Pushup")
