@@ -21,6 +21,7 @@
 - If you don't meet the beginner standard, go back to the former step and keep working on it
 - When you are able to do ten reps, begin adding another work set 
 - Always use perfect form
+- Don't use momentum, control the negative portion of the movement as much as the positive, pause one second at the bottom
 
 ## Consolidation Training
 
