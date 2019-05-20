@@ -8,11 +8,15 @@ replacements = {}
 
 replacements['date'] = datetime.datetime.now().strftime("%A, %m/%d/%Y %H:%M")
 replacements['exercise1'] = sys.argv[1]
-replacements['warm_reps1'] = sys.argv[2]
-replacements['work_reps1'] = sys.argv[3]
-replacements['exercise2'] = sys.argv[4]
-replacements['warm_reps2'] = sys.argv[5]
-replacements['work_reps2'] = sys.argv[6]
+replacements['warm_set_name1'] = sys.argv[2]
+replacements['warm_reps1'] = sys.argv[3]
+replacements['work_set_name1'] = sys.argv[4]
+replacements['work_reps1'] = sys.argv[5]
+replacements['exercise2'] = sys.argv[6]
+replacements['warm_set_name2'] = sys.argv[7]
+replacements['warm_reps2'] = sys.argv[8]
+replacements['work_set_name2'] = sys.argv[9]
+replacements['work_reps2'] = sys.argv[10]
 
 with open('template.md', 'r') as f:
     temp = f.read()
