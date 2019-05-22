@@ -1,0 +1,1 @@
+- Start in a standing position with your knees slightly flexed. Bend your right elbow and put your arm behind your head. Hold onto your right elbow with your left hand. To stretch the armpit area and shoulder move the back of your head back against your right arm, until a mild stretch is felt. Hold for 10-15 seconds. Do both sides.

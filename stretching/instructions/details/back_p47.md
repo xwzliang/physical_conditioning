@@ -1,0 +1,2 @@
+- For the first stretch. slowly turn your elbows inward while straightening your arms. This stretches the shoulders, arms, and chest. Hold for 5-10 seconds.
+- If that is fairly easy, then lift your arms up behind you until you feel a stretch in the arms, shoulders, or chest. Hold an easy stretch for 5-10 seconds. This is good to do when you find yourself slumping forward from the shoulders. Kccp your chest out and chin in. This stretch can be done any time.

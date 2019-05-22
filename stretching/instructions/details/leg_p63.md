@@ -1,0 +1,1 @@
+- Lie on your back and pull your left leg toward your chest. Keep the back of your head on the mat if possible, but don't strain. If you can't do it with your head down, use a small pillow under your head. Keep the other leg as straight as possible, without locking your knee. Hold for 30 seconds. Do both sides. This will slowly loosen up the back muscles and hamstrings.

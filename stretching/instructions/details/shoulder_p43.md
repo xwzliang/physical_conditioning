@@ -1,0 +1,2 @@
+- To stretch your shoulder and the middle of your upper back, gently pull your elbow across your chest toward your opposite shoulder. Hold for 10 seconds.
+- Remember: Keep your jaw relaxed and breathe deeply as you stretch.

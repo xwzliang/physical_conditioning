@@ -1,0 +1,1 @@
+- First, raise the top of your shoulders toward your ears until you feel a slight tension in your neck and shoulders. Hold for 5 seconds. Then relax shoulders downward. Think: "Shoulders hang, shoulders down."
