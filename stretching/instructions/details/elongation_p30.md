@@ -1,0 +1,4 @@
+- Extend your arms overhead and straighten out your legs. Now reach as far as is comfortable in an opposite direction with your arms and legs. Stretch for 5 seconds, then relax.
+- Now stretch diagonally. Point the toes of your left foot as you extend your right arm. Stretch as far as is comfortable. Hold for 5 seconds, then relax. Stretch the right leg and the left arm the same way. Hold each stretch for at least 5 seconds, then relax.
+- Now, at the same time, stretch both arms and both legs again. Hold for 5 seconds, then relax. This is a good stretch for the muscles of the rib cage, abdominals, spine, shoulders, arms, ankles, and feet.
+- As a variation of this stretch, pull in with the abdominal muscles as you stretch. This will make you feel slim, and is a great exercise for your internal organs.

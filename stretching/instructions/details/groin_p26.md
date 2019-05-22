@@ -1,0 +1,1 @@
+- Relax, with knees bent and soles of your feet together. This comfortable position will stretch your groin. Hold for 30 seconds. Let the pull of gravity do the stretching. You may want to put a small pillow hehind your head for comfort.

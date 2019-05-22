@@ -1,0 +1,1 @@
+- To stretch the quads and knee, hold the top of your right foot with your left hand and gently pull your heel toward your buttocks. The knee bends at a natural angle when you hold your foot with the opposite hand. This is good to use in knee rehabilitation and with problem knees. Hold up to 10-20 seconds for each leg.
