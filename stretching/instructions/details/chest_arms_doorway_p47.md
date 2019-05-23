@@ -1,0 +1,1 @@
+- Stand in a doorway and place your hands at about shoulder-height on either side of the doorway. Move your upper body forward until you feel a comfortable stretch in your arms and chest. Keep your chest and head up and knees slightly bent while doing this stretch. Hold for 15 seconds.

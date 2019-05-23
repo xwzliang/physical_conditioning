@@ -1,0 +1,1 @@
+- Now put one arm above your head (palm up) and the otber arm down along your side (palm down). Reach in opposite directions at the same time to stretch your shoulders and back. Hold stretch for 6-8 seconds. Do both sides at least twice. Keep your lower back relaxed and flat. Keep your jaw relaxed.

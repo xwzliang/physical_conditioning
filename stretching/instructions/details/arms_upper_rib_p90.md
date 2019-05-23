@@ -1,0 +1,1 @@
+- Interlace fingers, then turn palms upward above your head as you straighten your arms. Think of elongating your arms as you feel a stretch through your arms and upper sides of the rib cage. Hold only a stretch that feels good. Do three times. Hold for 10 seconds.

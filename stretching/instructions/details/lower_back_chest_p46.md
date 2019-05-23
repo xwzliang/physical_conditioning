@@ -1,0 +1,1 @@
+- Standing with your knees slightly bent, place your palms on your lower back just above your hips, fingers pointing downward. Gently push your palms forward to create an extension in the lower back. Hold for 10 seconds. Repeat twice. Use this stretch after sitting for an extended period of time. Do not hold your breath.

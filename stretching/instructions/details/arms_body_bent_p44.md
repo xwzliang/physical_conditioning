@@ -1,0 +1,1 @@
+- From a standing position, with your knees slightly bent (1 inch), gently pull your elbow behind your head as you bend from your hips to the side. Hold an easy stretch for 10 seconds. Do both sides. Keep your knees slightly bent for better balance. Do not hold your breath.
