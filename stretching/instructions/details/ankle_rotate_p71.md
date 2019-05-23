@@ -1,0 +1,1 @@
+- If possible, hold onto something for balance. Lift your left foot up off the floor and rotate your foot and ankle 10-12 times clockwise, then 10-12 times counterclockwise. Repeat for right foot and ankle. This activates circulation in the legs.

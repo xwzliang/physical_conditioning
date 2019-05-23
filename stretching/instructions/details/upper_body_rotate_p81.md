@@ -1,0 +1,1 @@
+- Start with your hands on your hips, feet pointed straight ahead, knees slightly bent. Rotate hips to the left as you look over your left shoulder. Hold an easy stretch for 10 seconds. Stretch each side twice. Be relaxed and breathe easily. This is a good stretch for lower back, hips, and upper body.

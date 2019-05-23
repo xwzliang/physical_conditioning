@@ -1,0 +1,1 @@
+- Gently lower your right shoulder downward as you lean your head, with your ear toward your left shoulder. Hold a comfortable stretch for 5 seconds, then repeat on your other side.
