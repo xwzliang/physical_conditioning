@@ -1,0 +1,1 @@
+- Reach in opposite directions with your arms while standing. Hold for 10 seconds each side. Keep your jaw relaxed and breathe rhythmically. This is an excellent stretch for upper body tension. It stretches the bides of the upper body, shoulders, and arms.

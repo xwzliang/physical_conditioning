@@ -1,0 +1,1 @@
+- Now interlace your fingers above your head and, with your palms facing upward, push your arms slightly back and up. Feel the stretch in your arms, shoulders, and upper back. Hold for 15 seconds. Do not hold your breath. This stretch is good to do anywhere, anytime, and is excellent for slumping shoulders. Breathe deeply.

@@ -1,0 +1,1 @@
+- Now, shake your arms and hands at your sides for 10-12 seconds. Keep your jaw relaxed and let your shoulders hang downward as you shake out tension.

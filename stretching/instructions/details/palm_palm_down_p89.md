@@ -1,0 +1,1 @@
+- From the above stretch, rotate your palms around until they face more or less downward. Go until you feel a mild stretch. Keep your elbows up and even. Hold for 5-8 seconds.

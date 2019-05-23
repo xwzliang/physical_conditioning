@@ -1,0 +1,1 @@
+- To stretch the side of your neck, lean your head sideways toward your left shoulder as your left hand pulls your right arm down and across, behind your back. Hold an easy stretch for 10-15 seconds. Do both sides.

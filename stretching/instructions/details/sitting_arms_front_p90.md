@@ -1,0 +1,1 @@
+- Interlace your fingers, then straighten your arms out in front of you with palms facing out. Feel the stretch in arms and through upper part of back (shoulder blades). Hold stretch for 20 seconds. Do at least twice.
