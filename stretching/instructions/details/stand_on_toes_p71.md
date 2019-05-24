@@ -1,1 +1,1 @@
-- PNF Technique: Contract-Relax-Stretch. Before stretching your calves, stand on your toes for 3-4 secunds to contract your calves. Then use the following calf stretch. This should make it easier.
+- PNF Technique: Contract-Relax-Stretch. Before stretching your calves, stand on your toes for 3-4 seconds to contract your calves. Then use the following calf stretch. This should make it easier.
