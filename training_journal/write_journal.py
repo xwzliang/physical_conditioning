@@ -5,18 +5,9 @@ from string import Template
 import datetime
 
 replacements = {}
-
-replacements['date'] = datetime.datetime.now().strftime("%A, %m/%d/%Y %H:%M")
-replacements['exercise1'] = sys.argv[1]
-replacements['warm_set_name1'] = sys.argv[2]
-replacements['warm_reps1'] = sys.argv[3]
-replacements['work_set_name1'] = sys.argv[4]
-replacements['work_reps1'] = sys.argv[5]
-replacements['exercise2'] = sys.argv[6]
-replacements['warm_set_name2'] = sys.argv[7]
-replacements['warm_reps2'] = sys.argv[8]
-replacements['work_set_name2'] = sys.argv[9]
-replacements['work_reps2'] = sys.argv[10]
+to_be_replaced = ['date', 'exercise1', 'warm_set_name1', 'warm_reps1', 'work_set_name1', 'work_reps1', 'exercise2', 'work_set_name2', 'warm_set_name2', 'warm_reps2', 'work_set_name2', 'work_reps2']
+to_replace = [datetime.datetime.now().strftime("%A, %m/%d/%Y %H:%M"), *sys.argv[1:]]
+replacements = dict(zip(to_be_replaced, to_replace))
 
 with open('template.md', 'r') as f:
     temp = f.read()
