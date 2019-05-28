@@ -20,4 +20,4 @@
 - Alternating pendulum dribbles forward/ backward/ switching hands 10 reps     
 - Rapid figure 8 dribbles forward 5 reps     
 - Rapid figure 8 dribbles backward 5 reps
-- Video: [](http://youtu.be/ax6io9jzy0g)
+- [video](http://youtu.be/ax6io9jzy0g)
