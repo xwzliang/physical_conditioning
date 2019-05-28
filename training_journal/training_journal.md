@@ -1,3 +1,16 @@
+# Tuesday, 05/28/2019 11:52
+
+||Exercise|Type|Set|Reps|
+|---|---|---|---|---|
+|<td rowspan=2>Pushups</td> |warm up| Wall Pushups | 2x10 ||
+||work set| Wall Pushups | 2x30 ||
+|<td rowspan=2>Leg Raises</td> |warm up| Knee Tucks | 2x10 ||
+||work set| Knee Tucks | 2x27 ||
+
+#### Comments
+
+---
+
 # Saturday, 05/25/2019 00:21
 
 ||Exercise|Type|Set|Reps|
