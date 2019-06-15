@@ -1,3 +1,17 @@
+# Sunday, 06/16/2019 00:35
+
+||Exercise|Type|Set|Reps|
+|---|---|---|---|---|
+|<td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x10 ||
+||work set| Vertical Pullups | 3x40 ||
+|<td rowspan=2>Squats</td> |warm up| Shoulderstand Squats | 2x10 ||
+||work set| Shoulderstand Squats | 3x50 ||
+
+#### Comments
+Vertical pullups and shoulderstand squats ready to level up!
+
+---
+
 # Tuesday, 06/11/2019 00:28
 
 ||Exercise|Type|Set|Reps|
