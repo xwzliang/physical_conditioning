@@ -1,3 +1,16 @@
+# Monday, 07/08/2019 12:11
+
+||Exercise|Type|Set|Reps|
+|---|---|---|---|---|
+|<td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x20 ||
+||work set| Horizontal Pullups | 2x5 ||
+|<td rowspan=2>Squats</td> |warm up| Shoulderstand Squats | 2x20 ||
+||work set| Jackknife Squats | 2x30 ||
+
+#### Comments
+
+---
+
 # Tuesday, 07/02/2019 23:45
 
 ||Exercise|Type|Set|Reps|
