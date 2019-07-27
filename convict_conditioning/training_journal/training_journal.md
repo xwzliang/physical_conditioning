@@ -1,3 +1,22 @@
+# Saturday, 07/27/2019 08:39
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Tues.</td> |<td rowspan=2>Dips</td> |warm up| Box Dips | 1x5 ||
+|||work set| Box Dips | 1x5 ||
+|<td rowspan=2>Wed.</td> |<td rowspan=2>Core Floor</td> |warm up| Plank | 1x1min ||
+|||work set| Jackknife Squats | 1x1min ||
+|<td rowspan=2>Thurs.</td> |<td rowspan=2>Pushups</td> |warm up| Wall Pushups | 2x20 ||
+|||work set| Incline Pushups | 2x30 ||
+|<td rowspan=2>Fri.</td> |<td rowspan=2>Leg Raises</td> |warm up| Knee Tucks | 2x20 ||
+|||work set| Flat Knee Raises | 2x25 ||
+|<td rowspan=2>Sat.</td> |<td rowspan=2>off</td> |warm up| off | off ||
+|||work set| off | off ||
+
+#### Comments
+
+---
+
 # Monday, 07/22/2019 06:04
 
 ||Exercise|Type|Set|Reps|
