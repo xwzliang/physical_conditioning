@@ -5,7 +5,7 @@
 |<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 1x5 ||
 ||work set| Box Dips | 1x5 ||
 |<td rowspan=2>Wed.</td> <td rowspan=2>Core Floor</td> |warm up| Plank | 1x1min ||
-||work set| Jackknife Squats | 1x1min ||
+||work set| Plank | 1x1min ||
 |<td rowspan=2>Thurs.</td> <td rowspan=2>Pushups</td> |warm up| Wall Pushups | 2x20 ||
 ||work set| Incline Pushups | 2x30 ||
 |<td rowspan=2>Fri.</td> <td rowspan=2>Leg Raises</td> |warm up| Knee Tucks | 2x20 ||
