@@ -14,9 +14,8 @@
 ||work set| off | off ||
 |<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
 ||work set| off | off ||
-|<td rowspan=2>Sat.</td> <td rowspan=2>off</td> |warm up| off | off ||
-||work set| Pushups | Wall Pushups ||
-
+|<td rowspan=2>Sat.</td> <td rowspan=2>Pushups</td> |warm up| Wall Pushups | 2x20 ||
+||work set| Wall Pushups | 1x20 || 
 #### Comments
 I hurt my left hand, arm and knee a little bit in a bike accident, so I took several days off this week.
 
