@@ -1,3 +1,27 @@
+# Saturday, 08/10/2019 05:52
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x20 ||
+||work set| Horizontal Pullups | 2x6 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Squats</td> |warm up| Jackknife Squats | 2x20 ||
+||work set| Supported Squats | 1x10 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 2x5 ||
+||work set| Box Dips | 2x15 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| Pushups | Wall Pushups ||
+
+#### Comments
+I hurt my left hand, arm and knee a little bit in a bike accident, so I took several days off this week.
+
+---
+
 # Saturday, 08/03/2019 05:55
 
 ||Day|Exercise|Type|Set|Reps|
