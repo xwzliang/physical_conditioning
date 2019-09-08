@@ -5,7 +5,7 @@
 |<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x20 ||
 ||work set| Horizontal Pullups | 2x8 ||
 |<td rowspan=2>Mon.</td> <td rowspan=2>Squats</td> |warm up| Shoulderstand Squats<br>Jackknife Squats | 1x20<br>1x20 ||
-||work set| Supported Squats | 3x25 ||
+||work set| Supported Squats | 2x25 ||
 |<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 2x5 ||
 ||work set| Box Dips | 2x15 ||
 |<td rowspan=2>Wed.</td> <td rowspan=2>Core Floor</td> |warm up| Plank | 2x30s ||
