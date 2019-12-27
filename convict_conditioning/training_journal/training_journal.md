@@ -1,3 +1,26 @@
+# Saturday, 12/28/2019 06:55
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x20 ||
+||work set| Horizontal Pullups | 2x18 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Squats</td> |warm up| Half Squats<br>Full Squats | 1x20<br>1x20 ||
+||work set| Close Squats | 2x16 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 2x8 ||
+||work set| Box Dips | 2x20 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Core Floor</td> |warm up| Plank | 2x30s ||
+||work set| Plank | 2x1min50s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Pushups</td> |warm up| Incline Pushups<br>Kneeling Pushups | 1x20<br>1x20 ||
+||work set| Half Pushups | 2x8 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Leg Raises</td> |warm up| Flat Bent Leg Raises<br>Flat Frog Leg Raises | 1x20<br>1x20 ||
+||work set| Flat Straight Leg Raises | 2x5 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Anaerobic</td> |warm up| Star Jumps | 2x30 ||
+||work set| Star Jumps | 2x80 ||
+
+#### Comments
+
+---
+
 # Saturday, 12/21/2019 06:35
 
 ||Day|Exercise|Type|Set|Reps|
