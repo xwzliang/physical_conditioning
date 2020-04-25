@@ -9,7 +9,7 @@ s/\|work set\| (.*) \| /"\1" /
 s/([0-9].*) \|\|/"\1"/
 s/".*\." //
 ' | paste -s -d ' \\' | sed '
-i#!/usr/bin/env bash \n\n./write_journal.py \\
+i#!/usr/bin/env bash \n# Use Following line to replace the lines when some exercises are skipped\n# "off" "off" "off" "off" "off" \\\n\n./write_journal.py \\
 s/\\/ \\\n/g
 ' > all_glory.tmp
 
