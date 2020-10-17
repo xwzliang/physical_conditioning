@@ -1,3 +1,26 @@
+# Saturday, 10/17/2020 23:35
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Squats</td> |warm up| Close Squats<br>Uneven Squats | 1x10<br>1x10 ||
+||work set| One Half One-Leg Squats | 2x10 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Pullups</td> |warm up| Vertical Pullups | 2x20 ||
+||work set| Horizontal Pullups | 2x30 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 2x8 ||
+||work set| Box Dips | 2x20 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Anaerobic</td> |warm up| Star Jumps | 2x30 ||
+||work set| Star Jumps | 2x80 ||
+
+#### Comments
+
+---
+
 # Saturday, 10/10/2020 09:26
 
 ||Day|Exercise|Type|Set|Reps|
