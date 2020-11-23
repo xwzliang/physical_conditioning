@@ -1,3 +1,26 @@
+# Saturday, 11/21/2020 23:48
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Core Floor</td> |warm up| Plank | 2x30s ||
+||work set| Plank | 2x1min50s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Pushups</td> |warm up| Half Pushups<br>Full Pushups | 1x12<br>1x10 ||
+||work set| Close Pushups | 2x13 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+
+#### Comments
+
+---
+
 # Saturday, 11/14/2020 15:05
 
 ||Day|Exercise|Type|Set|Reps|
