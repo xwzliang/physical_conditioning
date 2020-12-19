@@ -1,3 +1,26 @@
+# Saturday, 12/19/2020 13:15
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Core Floor</td> |warm up| Plank | 2x30s ||
+||work set| Plank | 2x1min50s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Anaerobic</td> |warm up| Star Jumps | 2x30 ||
+||work set| Star Jumps | 2x80 ||
+
+#### Comments
+
+---
+
 # Saturday, 12/12/2020 14:58
 
 ||Day|Exercise|Type|Set|Reps|
