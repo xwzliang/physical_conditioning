@@ -1,3 +1,26 @@
+# Saturday, 12/26/2020 13:24
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Dips</td> |warm up| Box Dips | 2x8 ||
+||work set| Box Dips | 2x20 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Leg Raises</td> |warm up| Flat Straight Leg Raises<br>Hanging Knee Raises | 1x10<br>1x10 ||
+||work set| Hanging Bent Leg Raises | 2x15 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Anaerobic</td> |warm up| Star Jumps | 2x30 ||
+||work set| Star Jumps | 2x80 ||
+
+#### Comments
+
+---
+
 # Saturday, 12/19/2020 13:15
 
 ||Day|Exercise|Type|Set|Reps|
