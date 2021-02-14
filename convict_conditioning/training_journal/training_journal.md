@@ -1,3 +1,26 @@
+# Sunday, 02/14/2021 22:51
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Horizontal Pullups | 2x10 ||
+||work set| Jackknife Pulls | 2x12 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x5 ||
+||work set| Short Bridges | 2x30 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+
+#### Comments
+
+---
+
 # Saturday, 02/06/2021 11:48
 
 ||Day|Exercise|Type|Set|Reps|
