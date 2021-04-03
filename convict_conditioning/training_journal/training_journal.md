@@ -1,3 +1,26 @@
+# Saturday, 04/03/2021 19:57
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Off</td> |warm up| Off | Off ||
+||work set| Off | Off ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Anaerobic</td> |warm up| Star Jumps | 2x30 ||
+||work set| Star Jumps | 2x80 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x5 ||
+||work set| Short Bridges | 3x40 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x15s ||
+||work set| Wall Headstands | 2x40s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Leg Raises</td> |warm up| Flat Straight Leg Raises<br>Hanging Knee Raises | 1x10<br>1x10 ||
+||work set| Hanging Bent Leg Raises | 2x15 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Pushups</td> |warm up| Half Pushups<br>Full Pushups | 1x12<br>1x10 ||
+||work set| Close Pushups | 2x15 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Squats</td> |warm up| Close Squats | 2x10 ||
+||work set| One Half One-Leg Squats | 2x13 ||
+
+#### Comments
+
+---
+
 # Saturday, 03/27/2021 12:44
 
 ||Day|Exercise|Type|Set|Reps|
