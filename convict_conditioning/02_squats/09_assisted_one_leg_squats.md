@@ -16,4 +16,4 @@
 
 ## Figures
 
-![](../images/02_squats/8-One-Half-One-Leg-Squats.jpg)
+![](../images/02_squats/9-Assisted-One-Leg-Squats.jpg)
