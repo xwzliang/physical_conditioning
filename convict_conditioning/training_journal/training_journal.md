@@ -1,3 +1,26 @@
+# Sunday, 09/05/2021 13:29
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Jackknife Pulls | 2x10 ||
+||work set| Half Pullups | 2x9 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Anaerobic</td> |warm up| Jumps | 2x50 ||
+||work set| Jumps | 2x100 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x20 ||
+||work set| Straight Bridges | 2x25 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x40s ||
+||work set| Crow Stands | 2x10s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Leg Raises</td> |warm up| Hanging Knee Raises | 2x10 ||
+||work set| Hanging Frog Raises | 2x14 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Pushups</td> |warm up| Close Pushups | 2x10 ||
+||work set| Uneven Pushups | 2x13 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Squats</td> |warm up| Close Squats | 2x10 ||
+||work set| Assisted One-Leg Squats | 2x8 ||
+
+#### Comments
+
+---
+
 # Sunday, 08/29/2021 13:51
 
 ||Day|Exercise|Type|Set|Reps|
