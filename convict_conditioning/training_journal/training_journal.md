@@ -8,7 +8,7 @@
 ||work set| Jumps | 2x160 ||
 |<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x20 ||
 ||work set| Straight Bridges | 2x28 ||
-|<td rowspan=2>Wed.</td> <td rowspan=2><td rowspan=2>Handstand Pushups</td></td> |warm up| Wall Headstands | 2x40s ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x40s ||
 ||work set| Crow Stands | 2x12s ||
 |<td rowspan=2>Thurs.</td> <td rowspan=2>Leg Raises</td> |warm up| Hanging Knee Raises | 2x10 ||
 ||work set| Partial Straight Leg Raises | 2x6 ||
