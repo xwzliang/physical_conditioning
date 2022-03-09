@@ -1,4 +1,4 @@
-# Wall Headstands
+# Wall Handstands
 
 ## Performance
 
