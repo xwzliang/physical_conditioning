@@ -18,5 +18,5 @@
 
 ## Figures
 
-![](../images/00_stretching/01_neck/3.png)
-![](../images/00_stretching/01_neck/4.png)
+![](../../images/00_stretching/01_neck/3.png)
+![](../../images/00_stretching/01_neck/4.png)

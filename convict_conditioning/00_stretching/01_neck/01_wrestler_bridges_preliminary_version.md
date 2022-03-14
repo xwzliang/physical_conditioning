@@ -15,4 +15,4 @@
 
 ## Figures
 
-![](../images/00_stretching/01_neck/1.png)
+![](../../images/00_stretching/01_neck/1.png)

@@ -18,6 +18,6 @@
 
 ## Figures
 
-![](../images/00_stretching/01_neck/5.png)
-![](../images/00_stretching/01_neck/6.png)
-![](../images/00_stretching/01_neck/7.png)
+![](../../images/00_stretching/01_neck/5.png)
+![](../../images/00_stretching/01_neck/6.png)
+![](../../images/00_stretching/01_neck/7.png)
