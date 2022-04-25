@@ -5,7 +5,7 @@
 |<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Jackknife Pulls | 2x10 ||
 ||work set| Half Pullups | 2x13 ||
 |<td rowspan=2>Mon.</td> <td rowspan=2>Flags</td> |warm up| Clutch Hang | 2x5s ||
-||work set| Clutch Hang | 2x1s ||
+||work set| Diagonal Split Clutch | 2x1s ||
 |<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x20 ||
 ||work set| Angled Bridges | 2x8 ||
 |<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x45s ||
