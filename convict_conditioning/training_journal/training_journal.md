@@ -1,3 +1,26 @@
+# Saturday, 05/28/2022 18:17
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Pullups</td> |warm up| Jackknife Pulls | 2x10 ||
+||work set| Half Pullups | 2x13 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Flags</td> |warm up| Clutch Hang | 2x5s ||
+||work set| Diagonal Split Clutch | 2x3s ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x20 ||
+||work set| Angled Bridges | 2x15 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x45s ||
+||work set| Wall Handstands | 2x48s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Leg Raises</td> |warm up| Hanging Knee Raises | 2x10 ||
+||work set| Partial Straight Leg Raises | 2x11 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Pushups</td> |warm up| Close Pushups | 2x10 ||
+||work set| 1/2 One-arm Pushups | 2x8 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Squats</td> |warm up| Close Squats | 2x10 ||
+||work set| Assisted One-Leg Squats | 2x15 ||
+
+#### Comments
+
+---
+
 # Saturday, 05/21/2022 11:50
 
 ||Day|Exercise|Type|Set|Reps|
