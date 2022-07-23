@@ -13,7 +13,7 @@
 |---|---|
 |Beginner: | 1x5 |
 |Intermediate: | 2x10 |
-|Progression: | 2x30 |
+|Elite: | 2x30 |
 
 ## Figures
 
