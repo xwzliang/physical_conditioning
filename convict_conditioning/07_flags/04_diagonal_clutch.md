@@ -14,4 +14,4 @@
 
 ## Figures
 
-![](../images/07_flags/diagonal_clutch.jpeg)
+![](../images/07_flags/diagonal_clutch.jpg)
