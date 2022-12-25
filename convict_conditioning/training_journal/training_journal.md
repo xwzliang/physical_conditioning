@@ -1,3 +1,26 @@
+# Sunday, 12/25/2022 09:38
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Flags</td> |warm up| Clutch Hang | 2x5s ||
+||work set| Diagonal Clutch | 2x10s ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Pullups</td> |warm up| Half Pullups | 2x5 ||
+||work set| Full Pullups | 2x7 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Bridges</td> |warm up| Short Bridges | 2x20 ||
+||work set| Angled Bridges | 2x20 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Handstand Pushups</td> |warm up| Wall Headstands | 2x50s ||
+||work set| Wall Handstands | 2x50s ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+
+#### Comments
+Got Covid, had to stop training for at least one week.
+---
+
 # Saturday, 12/17/2022 23:32
 
 ||Day|Exercise|Type|Set|Reps|
