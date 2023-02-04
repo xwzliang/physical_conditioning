@@ -1,3 +1,26 @@
+# Saturday, 02/04/2023 18:00
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>off</td> |warm up| off | off ||
+||work set| off | off ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Pushups</td> |warm up| Close Pushups | 2x10 ||
+||work set| 1/2 One-arm Pushups | 2x10 ||
+
+#### Comments
+
+---
+
 # Sunday, 12/25/2022 09:38
 
 ||Day|Exercise|Type|Set|Reps|
@@ -18,7 +41,7 @@
 ||work set| off | off ||
 
 #### Comments
-Got Covid, had to stop training for at least one week.
+Got Covid, had to stop training for at least one month.
 ---
 
 # Saturday, 12/17/2022 23:32
