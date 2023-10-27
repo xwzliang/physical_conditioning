@@ -1,3 +1,26 @@
+# Saturday, 10/28/2023 07:52
+
+||Day|Exercise|Type|Set|Reps|
+|---|---|---|---|---|---|
+|<td rowspan=2>Sun.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Mon.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Tues.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Wed.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Thurs.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Fri.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+|<td rowspan=2>Sat.</td> <td rowspan=2>Mix</td> |warm up| Short Bridges | 2x20 ||
+||work set| Close Squats | 2x20 ||
+
+#### Comments
+
+---
+
 # Saturday, 10/21/2023 09:54
 
 ||Day|Exercise|Type|Set|Reps|
